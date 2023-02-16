@@ -1,5 +1,5 @@
 # image_classifier
-Simple Cat and Dog classifier app with CNN and Fast API
+Simple Cat and Dog classifier app with CNN and Flask
 <br>
 <br>
 <br>
